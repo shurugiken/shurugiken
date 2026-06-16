@@ -16,8 +16,12 @@ U.S. Air Force veteran and CompTIA-certified IT professional (**A+, Security+, N
 - **Security** — SPF/DKIM/DMARC, Microsoft Defender, least-privilege, incident response, DoD 8570 awareness
 
 ### 📂 Featured projects
-- **[m365-email-security](https://github.com/shurugiken/m365-email-security)** — Standing up SPF, DKIM & DMARC plus a least-privilege Microsoft Entra app, with the *why* behind each piece.
-- **[powershell-it-toolkit](https://github.com/shurugiken/powershell-it-toolkit)** — Practical PowerShell for help-desk and Microsoft 365 / Active Directory administration (onboarding, offboarding, account tasks).
+- **[m365-email-security](https://github.com/shurugiken/m365-email-security)** — SPF, DKIM & DMARC + a least-privilege Microsoft Entra app, with the *why* behind each piece.
+- **[powershell-it-toolkit](https://github.com/shurugiken/powershell-it-toolkit)** — Help-desk + Microsoft 365 / Active Directory automation (onboarding, offboarding, account tasks).
+- **[homelab](https://github.com/shurugiken/homelab)** — Self-hosted AI (Ollama + Open WebUI) on Ubuntu/Docker, accessed securely over a Tailscale mesh VPN.
+- **[aws-cloud-projects](https://github.com/shurugiken/aws-cloud-projects)** — S3 + CloudFront static site and IAM least-privilege roles with CloudWatch alarms.
+- **[cloudflare-dns-automation](https://github.com/shurugiken/cloudflare-dns-automation)** — Idempotent Python tool to manage SPF/DKIM/DMARC via the Cloudflare API.
+- **[linux-server-bootstrap](https://github.com/shurugiken/linux-server-bootstrap)** — Securely provision + harden a fresh Ubuntu server and deploy apps as systemd services.
 
 ### 📜 Certifications
 `CompTIA A+` · `CompTIA Security+` · `CompTIA Network+` · `AWS Certified Cloud Practitioner` · `LPI Linux Essentials`
