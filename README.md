@@ -15,6 +15,7 @@ U.S. Air Force veteran and CompTIA-certified IT professional (**A+, Security+, N
 - **Scripting & Cloud** — PowerShell, Python, Bash · AWS (EC2, S3, IAM, Route 53, CloudWatch)
 - **AI & automation** — AI agents & multi-agent orchestration, LLM APIs, running local models (Ollama) — built behind a least-privilege, auditable boundary
 - **Security** — SPF/DKIM/DMARC, Microsoft Defender, least-privilege, incident response, DoD 8570 (IAT II) awareness
+- **Blockchain / Web3** — EVM chains, wagmi/viem + RainbowKit, web3.py, ERC-20 & Solidity (Foundry), onchain USDC payments on Polygon
 
 ### 📂 Featured projects
 
@@ -32,6 +33,12 @@ U.S. Air Force veteran and CompTIA-certified IT professional (**A+, Security+, N
 - **[aws-cloud-projects](https://github.com/shurugiken/aws-cloud-projects)** — S3 + CloudFront static site and IAM least-privilege roles with CloudWatch alarms.
 - **[cloudflare-dns-automation](https://github.com/shurugiken/cloudflare-dns-automation)** — Idempotent Python tool to manage SPF/DKIM/DMARC via the Cloudflare API.
 - **[linux-server-bootstrap](https://github.com/shurugiken/linux-server-bootstrap)** — Securely provision + harden a fresh Ubuntu server and deploy apps as systemd services.
+
+**⛓️ Blockchain / Web3**
+- **[wagmi-usdc-payments](https://github.com/shurugiken/wagmi-usdc-payments)** — A wagmi v2 + RainbowKit dApp: connect a wallet, read a USDC balance on Polygon, and send USDC with live transaction status.
+- **[evm-onchain-toolkit](https://github.com/shurugiken/evm-onchain-toolkit)** — Python (web3.py) utilities for EVM chains: wallet balances, ERC-20 reads/transfers, contract calls, and message signing.
+- **[conditional-tokens-primer](https://github.com/shurugiken/conditional-tokens-primer)** — A practical primer on the Gnosis Conditional Tokens Framework behind onchain prediction markets — split / merge / redeem, with runnable examples.
+- **[solidity-foundry-starter](https://github.com/shurugiken/solidity-foundry-starter)** — Solidity fundamentals with Foundry: a tested ERC-20 token and a simple buyer/seller/arbiter escrow contract.
 
 ### 📜 Certifications
 `CompTIA A+` · `CompTIA Security+` · `CompTIA Network+` · `AWS Certified Cloud Practitioner` · `LPI Linux Essentials`
