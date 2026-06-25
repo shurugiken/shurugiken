@@ -23,6 +23,7 @@ U.S. Air Force veteran and CompTIA-certified IT professional. I run help desk an
 **☁️ Cloud**
 - **[aws-cloud-projects](https://github.com/shurugiken/aws-cloud-projects)** — Hands-on AWS labs: S3 + CloudFront static site and IAM least-privilege roles with CloudWatch alarms.
 - **[terraform-aws-secure-baseline](https://github.com/shurugiken/terraform-aws-secure-baseline)** — Terraform reference module for a secure-by-default AWS S3 baseline (encryption, public-access block, versioning) + least-privilege IAM. `fmt` / `validate` clean.
+- **[cf-workers-ai-digest](https://github.com/shurugiken/cf-workers-ai-digest)** — A scheduled digest on Cloudflare Workers: a cron trigger runs a Workers AI model and posts the result to a webhook, with a secret-gated preview-before-post path and no external API key. Unit-tested.
 
 **🔐 Security**
 - **[webhook-auth-patterns](https://github.com/shurugiken/webhook-auth-patterns)** — Authenticating inbound webhooks the right way: shared-secret, HMAC-SHA256, and Ed25519 — timing-safe, replay-resistant, with runnable examples.
@@ -33,6 +34,7 @@ U.S. Air Force veteran and CompTIA-certified IT professional. I run help desk an
 - **[powershell-it-toolkit](https://github.com/shurugiken/powershell-it-toolkit)** — Help-desk + M365 / Active Directory automation (onboarding, offboarding) and Windows performance diagnostics (health report, page-file, cache cleanup).
 - **[ad-automation-toolkit](https://github.com/shurugiken/ad-automation-toolkit)** — PowerShell for Active Directory admin: bulk onboarding, offboarding, stale-account reports, and group audits — Pester-tested, with `-WhatIf` support.
 - **[net-triage](https://github.com/shurugiken/net-triage)** — A help-desk network triage CLI: DNS, TCP ports, HTTP, and latency checks rolled into a PASS/WARN/FAIL report. Stdlib-only Python, tested.
+- **[kb-health](https://github.com/shurugiken/kb-health)** — An LLM-powered linter for a folder of Markdown docs: finds contradictions, orphan pages, stale claims, and missing topics, then writes a report. Stdlib-only Python CLI.
 
 **🖥️ Self-hosting**
 - **[homelab](https://github.com/shurugiken/homelab)** — Self-hosted services on Ubuntu / Docker, accessed securely over a Tailscale mesh VPN.
