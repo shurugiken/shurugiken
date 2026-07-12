@@ -1,6 +1,6 @@
 # Kwashawn Warren
 
-### IT Support Specialist → Cloud / Security · Dallas, TX 🇺🇸
+### IT Support Specialist → Cloud / Security · Chicago, IL 🇺🇸
 
 U.S. Air Force veteran and CompTIA-certified IT professional. I run help desk and Windows / Microsoft 365 support today, and I'm building toward cloud and security engineering — least-privilege, auditable, documented so the next person doesn't have to guess.
 
