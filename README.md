@@ -35,6 +35,7 @@ U.S. Air Force veteran and CompTIA-certified IT professional. I run help desk an
 - **[ad-automation-toolkit](https://github.com/shurugiken/ad-automation-toolkit)** — PowerShell for Active Directory admin: bulk onboarding, offboarding, stale-account reports, and group audits — Pester-tested, with `-WhatIf` support.
 - **[net-triage](https://github.com/shurugiken/net-triage)** — A help-desk network triage CLI: DNS, TCP ports, HTTP, and latency checks rolled into a PASS/WARN/FAIL report. Stdlib-only Python, tested.
 - **[kb-health](https://github.com/shurugiken/kb-health)** — An LLM-powered linter for a folder of Markdown docs: finds contradictions, orphan pages, stale claims, and missing topics, then writes a report. Stdlib-only Python CLI.
+- **[job-alert-bot](https://github.com/shurugiken/job-alert-bot)** — Multi-source job-listing alert bot: polls USAJobs, Adzuna, SerpAPI, and Greenhouse/Lever boards, scores postings with deterministic rules, dedups in SQLite, and delivers a Telegram digest. Tested, with a systemd deploy.
 
 **🖥️ Self-hosting**
 - **[homelab](https://github.com/shurugiken/homelab)** — Self-hosted services on Ubuntu / Docker, accessed securely over a Tailscale mesh VPN.
