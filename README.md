@@ -65,4 +65,4 @@ B.S. Cloud Computing, Western Governors University, in progress.
 
 ### Connect
 
-**LinkedIn:** [linkedin.com and in and kwashawnwarren](https://www.linkedin.com/in/kwashawnwarren)
+**LinkedIn:** [linkedin.com/in/kwashawnwarren](https://www.linkedin.com/in/kwashawnwarren)
